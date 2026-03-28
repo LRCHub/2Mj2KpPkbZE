@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Rom-Com Gone Wrong",
+  "base_artist": "Matt Maltese",
+  "createdAt": "2026-03-28T10:40:26.580915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rom - Com Gone Wrong",
+      "artist": "Matt Maltese",
+      "has_synced": true,
+      "path": "select/01_Rom_-_Com_Gone_Wrong_Matt_Maltese.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rom‐Com Gone Wrong",
+      "artist": "Matt Maltese",
+      "has_synced": true,
+      "path": "select/02_Rom‐Com_Gone_Wrong_Matt_Maltese.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rom-Com Gone Wrong (Clean Edit)",
+      "artist": "Matt Maltese",
+      "has_synced": true,
+      "path": "select/03_Rom-Com_Gone_Wrong_(Clean_Edit)_Matt_Maltese.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rom-Com Gone Wrong",
+      "artist": "Matt Maltese",
+      "has_synced": true,
+      "path": "select/04_Rom-Com_Gone_Wrong_Matt_Maltese.lrc"
+    }
+  ]
+}
